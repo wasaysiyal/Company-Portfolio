@@ -17,9 +17,6 @@ This is a responsive and modern **company portfolio website** built using **Reac
 - 🌐 React Router DOM
 - 🎨 CSS3
 
-## 📸 Screenshots
-
-*(Add actual screenshots here after deployment)*
 
 ## 🔗 Live Demo
 

@@ -21,7 +21,7 @@ This is a responsive and modern portfolio website built using **React.js** and *
 
 ## 🔗 Live Demo
 
-[View Live Site on Vercel](https://your-vercel-link.vercel.app)
+[View Live Site on Vercel]([https://your-vercel-link.vercel.app](https://company-portfolio-ten-bay.vercel.app/))
 
 ## 🛠️ Installation
 

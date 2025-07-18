@@ -1,31 +1,36 @@
-# 🌐 Company Portfolio Website
+# 🌐 React Company Portfolio Website
 
-This is a responsive and modern portfolio website built using **React.js** and **Firebase Authentication**. The project includes:
+This is a responsive and modern **company portfolio website** built using **React.js** and **Firebase Authentication**. It showcases services, handles user login/register, and includes smooth page transitions with a clean, professional design.
 
-- ✅ User Registration & Login (Firebase)
-- ✅ Protected Routes with React Router
+## ✨ Features
+
+- ✅ Firebase User Registration & Login
+- ✅ Protected Routes using React Router
 - ✅ Animated Services Section
-- ✅ Contact & About Pages
-- ✅ Styled with custom CSS and transitions
+- ✅ About & Contact Pages
+- ✅ Clean UI with custom CSS and transitions
 
 ## 🚀 Tech Stack
 
-- React.js
-- Firebase (Auth)
-- React Router DOM
-- CSS3
+- ⚛️ React.js
+- 🔐 Firebase Authentication
+- 🌐 React Router DOM
+- 🎨 CSS3
 
 ## 📸 Screenshots
 
-(You can add images later from the deployed site)
+*(Add actual screenshots here after deployment)*
 
 ## 🔗 Live Demo
 
-[View Live Site on Vercel]
-https://your-vercel-link.vercel.app](https://company-portfolio-ten-bay.vercel.app/
+👉 [View Live Site on Vercel](https://company-portfolio-ten-bay.vercel.app/)
 
-## 🛠️ Installation
+## 🛠️ Getting Started
+
+Clone the repo and install dependencies:
 
 ```bash
+git clone https://github.com/wasaysiyal/Company-Portfolio.git
+cd Company-Portfolio
 npm install
 npm start
